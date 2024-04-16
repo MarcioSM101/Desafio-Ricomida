@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+
+.bg-custom {
+    background-color: #373A3C;
+}
+
+.navbar p {
+    font-family: 'Lobster', cursive;
+    font-size: 27px;
+    margin-top: 20px;
+}
+
+.nav-link {
+    color: #ffff;
+}
+
+#principal-img {
+    margin-top: 60px;
+}
+.carousel-item {
+    margin-top: 40px;
+}
+
+.botones {
+    text-align: center; 
+}
+
+.botones i {
+    margin: 0 3px; 
+    margin-top: 20px;
+    transition: color 0.5s ease;
+    text-decoration: none;
+    
+}
+.botones i:hover {
+    color: #373A3C31;
+}
+.mi-seccion {
+    background-color: #DC3545;
+    padding: 20px;
+    text-align: center;
+    padding: 100px;
+}
+
+.mi-seccion h2 {
+    color: white;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700; 
+}
+
+
+.mi-seccion p {
+    color: #ffff;
+    font-size: 20px;
+    
+}
+.mi-seccion spam {
+    font-family: 'Lobster', cursive; 
+    font-weight: normal; 
+}
+
+.mi-seccion button {
+    background-color: #DC3545;
+    color: white;
+    border: 1px solid #DDDDDD;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+footer {
+    background-color: #373A3C;
+    color: #ffff;
+    text-align: center;
+    font-family: 'Lobster', cursive; 
+    font-weight: normal; 
+    padding: 20px;
+}
